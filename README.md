@@ -4,7 +4,9 @@
 <img src="https://user-images.githubusercontent.com/76674591/193411913-1e70d4db-3298-45cd-b21b-4cd357f78287.gif"/>
 </p>
 
-I'm an Electronics student with a passion for exploring Data Structures and Algorithms (DSA). Welcome to my GitHub profile!
+Welcome to my GitHub profile! I'm an Electronics student with a keen interest in exploring the fascinating realms of Full Stack Web Development and Data Structures and Algorithms (DSA).
+<br>
+Feel free to check out my repositories and contributions. You can also connect with me on [Instagram](https://www.instagram.com/_rogerkrips24/) and [LinkedIn](https://www.linkedin.com/in/krapanshshrivastava/).
 
 ## About Me
 
