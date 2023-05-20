@@ -1,5 +1,9 @@
 # Hi there! I'm Krapansh👋
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76674591/193411913-1e70d4db-3298-45cd-b21b-4cd357f78287.gif"/>
+</p>
+
 I'm an Electronics student with a passion for exploring Data Structures and Algorithms (DSA). Welcome to my GitHub profile!
 
 ## About Me
