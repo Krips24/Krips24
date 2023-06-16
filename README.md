@@ -37,9 +37,13 @@ Feel free to check out my repositories and contributions. You can also connect w
 - LeetCode: [LeetCode Profile](https://leetcode.com/krapansh24/)
 - Email: krapansh24@gmail.com
 
-## GitHub Stats
+## Github Stats:
 
-![Krapansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krips24&show_icons=true&theme=dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krips24&show_icons=true&theme=radical" width="49%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krips24&theme=radical" width="49%" alt="GitHub Streak">
+</p>
 
 ## Let's Connect
 
