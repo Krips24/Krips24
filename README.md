@@ -5,7 +5,8 @@
 </p>
 
 Welcome to my GitHub profile! I'm an Electronics student with a keen interest in exploring the fascinating realms of Full Stack Web Development and Data Structures and Algorithms (DSA).
-<br>
+<br> 
+
 Feel free to check out my repositories and contributions. You can also connect with me on [Instagram](https://www.instagram.com/_rogerkrips24/) and [LinkedIn](https://www.linkedin.com/in/krapanshshrivastava/).
 
 ## About Me
