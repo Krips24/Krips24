@@ -12,7 +12,7 @@ Feel free to check out my repositories and contributions. You can also connect w
 ## About Me
 
 - 🎓 Electronics student
-- 💡 Interested in WebDevelopment, DSA, problem-solving, and algorithmic thinking
+- 💡 Interested in Web-Development, DSA, problem-solving, and algorithmic thinking
 - 🌱 Currently learning and improving my DSA skills
 - 🚀 Actively seeking opportunities to contribute to open-source projects
 
