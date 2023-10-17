@@ -74,6 +74,7 @@ Feel free to check out my repositories and contributions. You can also connect w
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krips24&theme=radical" width="49%" alt="GitHub Streak">
 </p>
 
+
 ## Let's Connect
 
 I'm always excited to connect with fellow developers, collaborate on projects, and learn from each other. Feel free to reach out to me through any of the social links provided above. Let's grow together in the world of DSA and beyond!
