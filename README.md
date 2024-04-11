@@ -63,8 +63,8 @@ Feel free to check out my repositories and contributions. You can also connect w
 ## Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/krapanshshrivastava/)
-- LeetCode: [LeetCode Profile](https://leetcode.com/krapansh24/)
-- Email: krapansh.work.com
+- Portfolio: [Portfolio Website](https://my-portfolio-nu-eight-45.vercel.app/)
+- Email: krapansh.work@gmailcom
 
 ## Github Stats:
 
