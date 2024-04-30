@@ -63,7 +63,7 @@ Feel free to check out my repositories and contributions. You can also connect w
 ## Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/krapanshshrivastava/)
-- Portfolio: [Portfolio Website](https://my-portfolio-nu-eight-45.vercel.app/)
+- Portfolio: [Portfolio Website](https://krapansh-portfolio.vercel.app/)
 - Email: krapansh.work@gmailcom
 
 ## Github Stats:
